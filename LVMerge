@@ -1,0 +1,2 @@
+#!/bin/bash
+"%programfiles(x86)%\National Instruments\Shared\LabVIEW Merge\LVMerge.exe" "%programfiles(x86)%\National Instruments\Shared\LabVIEW 2014\LabVIEW.exe" $*

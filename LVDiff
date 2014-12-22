@@ -1,0 +1,2 @@
+#!/bin/bash
+"%programfiles(x86)%\National Instruments\Shared\LabVIEW Compare\LVCompare.exe" "$2" "%programfiles(x86)%\National Instruments\Shared\LabVIEW 2014\LabVIEW.exe" "$5" -nobdcosm -nobdpos
